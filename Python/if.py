@@ -4,5 +4,9 @@ if hungry:
 
 
 bill = 2500
+
+discount = 0.2
+
 if bill >2000:
-    print("Pay the bill, you can afford a bill less than 10,000 and you have pushed it to 2500")
+    print("You have a 20% discount on your" + str(bill) + " bill") 
+    
