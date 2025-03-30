@@ -1,4 +1,4 @@
-temperature = 20
+temperature = 30
 
 if temperature > 25:
     print("Mungu ameamua lazima tuive")
