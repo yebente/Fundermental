@@ -6,5 +6,4 @@ for x in fruits:
 
 instructors = ('John', 'Jane', 'Jim')
 
-for instructor in instructors:
-    print[1]
+#print first instructor
