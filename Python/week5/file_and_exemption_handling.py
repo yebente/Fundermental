@@ -1,4 +1,4 @@
-# Task 1: Create and write to a file with Kenyan names
+# Task 1: Creating the students.txt files containing names of students
 try:
     with open("students.txt", "w") as f:
         f.write("Yebente\n")
